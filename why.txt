@@ -1,0 +1,13 @@
+hover class: sets things when you hover over them
+nth-child class: selects certain childern such as all the odd numbered ones
+last-of-type class: chooses all childern of the last of whatever type
+first-child class: chooses the first child
+
+display flex: flexs
+flex: way to scale without absolute value
+flex direction: determines which direction or orentation items will flex
+
+
+
+resources:
+https://www.w3schools.com/
